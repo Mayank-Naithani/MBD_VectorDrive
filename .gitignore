@@ -1,0 +1,28 @@
+# MATLAB & Simulink
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.log
+*.mat.bak
+
+# KiCad
+*.kicad_prl
+*.bck
+*.lck
+fp-info-cache
+hw_kicad/**/_autosave-*
+hw_kicad/**/*.bak
+
+# Embedded C/C++ build
+.pio/
+.vscode/
+build/
+*.o
+*.elf
+*.bin
+*.hex
+
+# OS files
+.DS_Store
+Thumbs.db
